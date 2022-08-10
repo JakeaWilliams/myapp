@@ -17,6 +17,7 @@ npx create-react-app@latest myapp
 cd myapp
 
 
+
 ##### 2.)
 2.) 
 Install the Amplify CLI. The Amplify CLI is a command line toolchain that runs locally in order to communicate with your app backend.
